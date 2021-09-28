@@ -1,0 +1,19 @@
+{
+    "name": "xinfangfang/handle_message",
+    "description": "robot error message send",
+    "authors": [
+        {
+            "name": "wb.xinfang",
+            "email": "v_xinfang@tal.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FlyBook\\src\\": "FlyBook/src/",
+            "InitQueue\\src\\": "InitQueue/src/",
+            "MessageHandle\\src\\": "MessageHandle/src/",
+            "MessageHandle\\tests\\": "MessageHandle/tests/"
+        }
+    }
+}
+
